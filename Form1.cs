@@ -41,6 +41,7 @@ namespace CyberSecurityBotGUI
                 if (followUp != null)
                 {
                     lstChat.Items.Add("Bot: " + followUp);
+
                 }
 
                 txtInput.Clear();
