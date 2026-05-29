@@ -107,6 +107,7 @@ public class ChatBot
         return response;
     }
     public string DetectSentiment(string input)
+
     {
         input = input.ToLower();
 
